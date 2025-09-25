@@ -1,0 +1,20 @@
+# Requirements for GEO Heatmap Generator Application
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Geospatial libraries
+folium>=0.14.0
+geopandas>=0.13.0
+shapely>=2.0.0
+geopy>=2.3.0
+
+# Visualization libraries
+plotly>=5.15.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Additional utilities
+tqdm>=4.65.0
