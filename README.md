@@ -27,9 +27,9 @@ Upload your dataset, define sample groups easily, view heatmaps, volcano plots, 
 
 ## Installation
 
-`git clone https://github.com/aahmeddev/universal-gene-expression-explorer.git`
+`git clone https://github.com/aahmeddev/gene-expression-explorer.git`
 
-`cd universal-gene-expression-explorer`
+`cd gene-expression-explorer`
 
 `pip install -r requirements.txt`
 
