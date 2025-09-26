@@ -40,6 +40,8 @@ Upload your dataset, define sample groups easily, view heatmaps, volcano plots, 
 # Usage
 `streamlit run geo_app.py`
 
+or visit at: https://gene-expression-explorer.streamlit.app/
+
 - Upload your gene expression data file using the sidebar.
 - Define your sample groups (auto-detection, manual, or metadata file).
 - Adjust analysis parameters (optional) in the sidebar.
