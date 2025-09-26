@@ -27,12 +27,15 @@ Upload your dataset, define sample groups easily, view heatmaps, volcano plots, 
 
 ## Installation
 
-`git clone https://github.com/aahmeddev/gene-expression-explorer.git`
-
-`cd gene-expression-explorer`
-
-`pip install -r requirements.txt`
-
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/aahmeddev/gene-expression-explorer.git
+    cd gene-expression-explorer
+    ```
+2.  **Install Python dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 # Usage
 `streamlit run geo_app.py`
